@@ -8,7 +8,7 @@
 		"activityBar.border": "#d1d2d7",
 		"activityBar.foreground": "#1567f9",
 		"activityBar.inactiveForeground": "#0000007f",
-		"activityBarBadge.background": "#da5151b6",
+		"activityBarBadge.background": "#da5151d3",
 		"activityBarBadge.foreground": "#ffffff",
 
 		// Buttons
@@ -55,6 +55,7 @@
 		
 		// Base colors
 		"focusBorder": "#00000025",
+		"input.border": "#c2c2c2",
 
 		// Generic foreground color
 		"foreground": "#222",
@@ -98,14 +99,14 @@
 		"statusBar.noFolderForeground": "#6d6d6d",
 
 		// Tabs
-		"tab.activeBackground": "#cfcfcf",
+		"tab.activeBackground": "#dbdbdb",
 		"tab.hoverBackground": "#b1b1b1",
 		"tab.unfocusedHoverBackground": "#a4a4a4",
 		"tab.inactiveBackground": "#bfbfbf",
 		"tab.border":"#A9A9A9",
 		"tab.activeForeground": "#222",
 		"tab.inactiveForeground": "#222",
-		"editorGroupHeader.tabsBackground":"#c9c9c9",
+		"editorGroupHeader.tabsBackground":"#bfbfbf",
 
 		// Terminal
 		"terminal.background": "#383737",
@@ -121,10 +122,11 @@
 		"scrollbar.shadow": "#00000000",
 		//"scrollbarSlider.background": "#c7c7c7",
 		//"scrollbarSlider.activeBackground": "#858585",
-		
-		// Input and dropdown
-		"input.border": "#c2c2c2",
+
+
+		// Settings
 		"settings.dropdownBorder": "#c2c2c2",
+		"settings.checkboxBorder": "#c2c2c2",
 
 		//"activityBar.dropBackground": "#ffffff1f",
 		//"badge.background": "#c4c4c4",
