@@ -1,0 +1,21 @@
+{
+    "name": "foxtail",
+    "displayName": "Foxtail",
+    "description": "A friendly theme that's meant to fit in nicely on a MacOS desktop. Inspired by XCode and Coda.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Foxtail",
+                "uiTheme": "vs",
+                "path": "./themes/foxtail.json"
+            }
+        ]
+    }
+}
