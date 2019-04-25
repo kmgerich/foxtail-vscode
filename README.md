@@ -1,31 +1,30 @@
 # Foxtail Theme for VS Code
 
-# Goal
+## Goal
 
 This theme attempts to make VS Code look at home on a MacOS Desktop. It was inspired by XCode, Coda, and MacOS itself.
 
-# Rough To Do List
+![Foxtail theme screen shot](https://raw.githubusercontent.com/kmgerich/foxtail-vscode/master/images/foxtail-preview.png)
+
+## Rough To Do List
 
 1. Icon theme (folders, files, etc.)
 2. Graphite variation
 3. Dark mode variation
 
-# Contributing
-
-Yep.
-
-# Installation
+## Installation
 
 Some day I'll submit this to the proper authorities.
 
-# Recommended companion extensions
+## Recommended companion extensions
 
 
-# Settings that I use which may enhance the look of the theme
+## Settings that I use which may enhance the look of the theme
 
 Add to settings.json.
 
 ```json
+
     "editor.fontSize": 14,
     "editor.fontFamily": "'Menlo'",
     "editor.smoothScrolling": true,
@@ -44,7 +43,11 @@ Add to settings.json.
 
 Source Code Pro font: https://github.com/adobe-fonts/source-code-pro
 
-# Acknowledgements
+## Contributing
+
+Coming soon.
+
+## Acknowledgements
 
 Thanks for the ideas and code
 
