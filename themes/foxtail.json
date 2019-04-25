@@ -8,6 +8,10 @@
 		"activityBar.border": "#d1d2d7",
 		"activityBar.foreground": "#1567f9",
 		"activityBar.inactiveForeground": "#0000007f",
+
+		// Badges
+		"badge.background": "#1568f97c",
+		"badge.foreground": "#fff",
 		"activityBarBadge.background": "#da5151d3",
 		"activityBarBadge.foreground": "#ffffff",
 
@@ -147,8 +151,6 @@
 		"settings.checkboxBorder": "#c2c2c2",
 
 		//"activityBar.dropBackground": "#ffffff1f",
-		//"badge.background": "#c4c4c4",
-		//"badge.foreground": "#333333",
 		//"breadcrumb.activeSelectionForeground": "#3e4546",
 		//"breadcrumb.background": "#ffffff",
 		//"breadcrumb.focusForeground": "#3e4546",

@@ -23,12 +23,11 @@ Some day I'll submit this to the proper authorities.
 
 # Settings that I use which may enhance the look of the theme
 
-Add to settings.json
+Add to settings.json.
 
 ```json
     "editor.fontSize": 14,
     "editor.fontFamily": "'Menlo'",
-    "terminal.integrated.fontSize": 14,
     "editor.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": true,
     "editor.cursorStyle": "line-thin",
@@ -36,7 +35,14 @@ Add to settings.json
     "editor.scrollBeyondLastLine": false,
     "workbench.editor.showIcons": false,
     "workbench.editor.tabCloseButton": "left",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontFamily": "Source Code Pro",
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.letterSpacing": 1,
+    
 ```
+
+Source Code Pro font: https://github.com/adobe-fonts/source-code-pro
 
 # Acknowledgements
 
