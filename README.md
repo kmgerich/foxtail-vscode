@@ -6,17 +6,9 @@ This theme attempts to make VS Code look at home on a MacOS Desktop. It was insp
 
 # Rough To Do List
 
-1. Work on editor token colors
-2. Terminal colors
-3. Icon theme (folders, files, etc.)
-4. Investigate using custom CSS https://github.com/be5invis/vscode-custom-css
-5. Graphite variation
-6. Dark mode variation
-
-# Questions
-
-- Is it possible to replace the UI icons without resorting to brittle hackery?
-- Why are file icons so blurry?
+1. Icon theme (folders, files, etc.)
+2. Graphite variation
+3. Dark mode variation
 
 # Contributing
 
